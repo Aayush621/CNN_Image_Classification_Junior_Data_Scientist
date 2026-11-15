@@ -46,4 +46,4 @@ These are recorded training results; the clean notebook starts fresh. Validation
 
 Open the notebook in **Google Colab**, select a **GPU runtime**, and run the cells in order. The notebook includes best-model saving, feature maps, single-image prediction, and image-variation checks. Results for the variation checks have not yet been reported.
 
-Files are saved locally in `/content/cnn_classification_final`. Download them before ending the runtime; Google Drive is not mounted.
+Files are saved locally in `/content/cnn_classification_final`.
