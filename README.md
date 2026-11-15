@@ -32,7 +32,6 @@ A PyTorch CNN that classifies animal images as **cat**, **dog**, or **wild**.
 | Adam with weight decay 0.0001 | 98.13% |
 | Classifier dropout 0.2 | 98.13% |
 
-The last three changes used a total 15-epoch budget and seed 42. None improved accuracy over the selected configuration. AdamW code was prepared, but no completed result was reported.
 
 ## Final Model
 
