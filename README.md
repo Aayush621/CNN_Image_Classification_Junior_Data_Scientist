@@ -40,7 +40,7 @@ A PyTorch CNN that classifies animal images as **cat**, **dog**, or **wild**.
 - **Regularization:** No dropout, batch normalization, or weight decay
 - **Recorded result:** 98.73% validation accuracy, loss 0.0725, and 19 errors out of 1,500 images
 
-These are recorded training results; the clean notebook starts fresh. Validation was used for model selection, and no separate test set was evaluated.
+These are recorded training results; the clean notebook starts fresh. Validation was used for model selection.
 
 ## Run
 
